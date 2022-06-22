@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Sign Out</name>
+   <tag></tag>
+   <elementGuidId>8002cfde-0525-426d-99e2-2cbc940690f6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ember26']/div/ul/li[3]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.global-nav__secondary-link.mv1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ca114d13-d801-42db-8f81-f01381deede9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>global-nav__secondary-link mv1</value>
+      <webElementGuid>9f9be437-7688-41ff-abb7-f84bb027121d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/m/logout/</value>
+      <webElementGuid>547e76c7-d096-4931-ac0f-be41577d54cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ember-action-204</name>
+      <type>Main</type>
+      <value>204</value>
+      <webElementGuid>12574596-a2e5-4b57-8158-d02c7f535edb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-artdeco-is-focused</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>598f9210-3290-41b1-8338-82021aeff5a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+          Sign Out
+        </value>
+      <webElementGuid>9bd10efb-25ea-412b-91db-c29831847931</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ember26&quot;)/div[@class=&quot;artdeco-dropdown__content-inner&quot;]/ul[@class=&quot;global-nav__secondary-items&quot;]/li[@class=&quot;global-nav__secondary-item global-nav__secondary-item--divider&quot;]/a[@class=&quot;global-nav__secondary-link mv1&quot;]</value>
+      <webElementGuid>28ef679d-05bb-4cb6-99bf-4b542853a402</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ember26']/div/ul/li[3]/a</value>
+      <webElementGuid>77423508-5331-47d5-bad0-26545dfdf735</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sign Out']/parent::*</value>
+      <webElementGuid>4645e4cb-c10a-4958-9e8c-85a78a8ff573</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/m/logout/')]</value>
+      <webElementGuid>d2794b64-2c0e-42a2-8e9c-c0a1ff6d389d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/ul/li[3]/a</value>
+      <webElementGuid>17bc8df5-9944-4a4f-989b-28775ae7d7ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/m/logout/' and (text() = '
+          Sign Out
+        ' or . = '
+          Sign Out
+        ')]</value>
+      <webElementGuid>5876e737-cdb7-4961-b00b-64c5d9b5e520</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

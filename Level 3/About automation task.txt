@@ -1,0 +1,2 @@
+The automation task has been done in katalon studio. The katalon project has been placed here in the folder named "assignment", also the video recording of automation task has also been placed in the folder titled "Recording_Login and logout_Katalon studio_Level 3".
+
